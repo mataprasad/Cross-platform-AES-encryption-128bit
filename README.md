@@ -28,18 +28,4 @@ See code samples for more details. You'll have to perform following steps:
 3. Call the CryptoHelper.decrypt(String) for decryption.
 
 #PHP Uses
-<pre>
-<?php
-{::nomarkdown}
-include_once "./Helper/CryptoHelper.php";
-
-$input = "Text to encrypt";
-echo "input:". $input."</br>";
-$cipher = CryptoHelper::encrypt($input);
-echo "cipher:". $cipher."</br>";
-$output = CryptoHelper::decrypt($cipher);
-echo "output:".$output;
-
-?>
-{:/}
-</pre>
+<script src="https://gist.github.com/mataprasad/baefc94bc575b83e13f26bb38de42383.js"></script>

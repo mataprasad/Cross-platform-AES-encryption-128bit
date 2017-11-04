@@ -28,4 +28,17 @@ See code samples for more details. You'll have to perform following steps:
 3. Call the CryptoHelper.decrypt(String) for decryption.
 
 <b>PHP Uses<b/>
+https://gist.github.com/mataprasad/baefc94bc575b83e13f26bb38de42383
 ![PHP Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/php%20sample.png)
+
+<b>Swift Uses<b/>
+https://gist.github.com/mataprasad/706b60b07b981a26fd27255a78f00dc7
+![Swift Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/swift%20sample.png)
+
+<b>Java Uses<b/>
+https://gist.github.com/mataprasad/23566b1dde487b63b047e7bd906d820a
+![Java Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/java%20sample.png)
+
+<b>C# Uses<b/>
+https://gist.github.com/mataprasad/5d746e57d43c197120a82a6b4e51e3c7
+![C# Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/dotnet%20sample.png)

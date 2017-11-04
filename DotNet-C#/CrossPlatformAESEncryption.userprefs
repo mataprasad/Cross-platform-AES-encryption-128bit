@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9644F43A-6704-4FB9-8B49-715E868C619D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrossPlatformAESEncryption/Program.cs">
+    <Files>
+      <File FileName="CrossPlatformAESEncryption/Program.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrossPlatformAESEncryption PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

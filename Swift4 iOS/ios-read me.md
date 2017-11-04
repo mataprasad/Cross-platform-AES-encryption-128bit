@@ -1,0 +1,3 @@
+Required dependencies --
+
+CryptoSwift

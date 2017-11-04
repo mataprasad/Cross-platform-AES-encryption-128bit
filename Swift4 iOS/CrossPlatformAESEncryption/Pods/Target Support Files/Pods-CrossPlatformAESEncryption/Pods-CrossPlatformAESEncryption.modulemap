@@ -1,0 +1,6 @@
+framework module Pods_CrossPlatformAESEncryption {
+  umbrella header "Pods-CrossPlatformAESEncryption-umbrella.h"
+
+  export *
+  module * { export * }
+}

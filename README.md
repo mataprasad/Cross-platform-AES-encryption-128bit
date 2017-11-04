@@ -28,4 +28,4 @@ See code samples for more details. You'll have to perform following steps:
 3. Call the CryptoHelper.decrypt(String) for decryption.
 
 <b>PHP Uses<b/>
-![PHP Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/php%20sample.png)
+![PHP Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/php%20sample.png)(https://gist.github.com/mataprasad/baefc94bc575b83e13f26bb38de42383)

@@ -27,5 +27,5 @@ See code samples for more details. You'll have to perform following steps:
 2. Call the CryptoHelper.encrypt(String) for encryption.
 3. Call the CryptoHelper.decrypt(String) for decryption.
 
-# PHP Uses
-![PHP Uses](http://url/to/img.png)
+<b>PHP Uses<b/>
+![PHP Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/php%20sample.png)

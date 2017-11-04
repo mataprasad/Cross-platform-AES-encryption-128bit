@@ -1,6 +1,6 @@
 Cross platform 128bit AES encryption / decryption.
 ========
-This project contains the implementation of 128 bit AES encryption which works on all the platforms (C#, iOS(Swift),Java Android,PHP and Java backend). 
+This project contains the implementation of 128 bit AES encryption which works on all the platforms (C#, iOS(Swift), Java Android, PHP and Java backend). 
 
 <b>Platforms Supported:</b>
 
@@ -8,7 +8,7 @@ This project contains the implementation of 128 bit AES encryption which works o
 
 2. Java Android
 
-3. .Net (C#).
+3. Dot Net (C#) [Also works with .Net Core]
 
 4. Java Backend
 
@@ -26,3 +26,18 @@ See code samples for more details. You'll have to perform following steps:
 1. Use a common secret key across all platform.
 2. Call the CryptoHelper.encrypt(String) for encryption.
 3. Call the CryptoHelper.decrypt(String) for decryption.
+
+#PHP Uses
+<pre>
+<?php
+include_once "./Helper/CryptoHelper.php";
+
+$input = "Text to encrypt";
+echo "input:". $input."</br>";
+$cipher = CryptoHelper::encrypt($input);
+echo "cipher:". $cipher."</br>";
+$output = CryptoHelper::decrypt($cipher);
+echo "output:".$output;
+
+?>
+</pre>

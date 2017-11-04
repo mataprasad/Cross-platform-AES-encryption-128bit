@@ -28,4 +28,6 @@ See code samples for more details. You'll have to perform following steps:
 3. Call the CryptoHelper.decrypt(String) for decryption.
 
 #PHP Uses
+{::nomarkdown}
 <script src="https://gist.github.com/mataprasad/baefc94bc575b83e13f26bb38de42383.js"></script>
+{:/}

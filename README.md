@@ -30,6 +30,7 @@ See code samples for more details. You'll have to perform following steps:
 #PHP Uses
 <pre>
 <?php
+{::nomarkdown}
 include_once "./Helper/CryptoHelper.php";
 
 $input = "Text to encrypt";
@@ -40,4 +41,5 @@ $output = CryptoHelper::decrypt($cipher);
 echo "output:".$output;
 
 ?>
+{:/}
 </pre>

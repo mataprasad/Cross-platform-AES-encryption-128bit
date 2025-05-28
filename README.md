@@ -14,6 +14,8 @@ This project contains the implementation of 128 bit AES encryption which works o
 
 5. PHP
 
+6. NodeJs (Tested with nodejs22)
+
 <b>Features:</b>
 
 Cross platform support. Encryption-Decryption works across C#, Swift, Java and PHP. 
@@ -42,3 +44,7 @@ https://gist.github.com/mataprasad/23566b1dde487b63b047e7bd906d820a
 <b>C# Uses<b/>
 https://gist.github.com/mataprasad/5d746e57d43c197120a82a6b4e51e3c7
 ![C# Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/dotnet%20sample.png)
+
+<b>NodeJs Uses<b/>
+https://gist.github.com/mataprasad/6d5666db9a1de571593c8e04f2836d5d
+![NodeJs Uses](https://raw.githubusercontent.com/mataprasad/Cross-platform-AES-encryption-128bit/master/Img/nodejs%20sample.png)
